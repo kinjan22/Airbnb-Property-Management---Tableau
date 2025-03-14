@@ -19,13 +19,13 @@ This project aims to optimize rental strategies, enhance customer satisfaction, 
 *Assess how amenities influence listing prices and booking patterns.
 
 ## Techniques Used:
-Data Visualization (Tableau):
+1.Data Visualization (Tableau):
 * Created interactive dashboards for popularity analysis, pricing distribution, and property type performance.
-Correlation Analysis:
+2.Correlation Analysis:
 * Analysed relationships between service prices, customer reviews, and listing prices.
-Comparative Analysis:
+3.Comparative Analysis:
 * Compared pricing trends, property types, and host performance across locations.
-Trend Analysis:
+4.Trend Analysis:
 * Identified booking trends over time and evaluated the impact of instant bookings.
   
 ## Key Insights:
